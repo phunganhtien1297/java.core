@@ -1,0 +1,14 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "d:\\Java\\json-20140107.jar",
+        "c:\\Users\\Administrator\\Downloads\\gson-2.2.2.jar",
+        "c:\\Users\\Administrator\\Downloads\\ojdbc6.jar",
+        "d:\\Java\\slide hoc Java\\gson-2.2.2.jar",
+        "d:\\Java\\slide hoc Java\\json-20140107.jar",
+        "d:\\Java\\slide hoc Java\\ojdbc6.jar"
+    ],
+    
+}
